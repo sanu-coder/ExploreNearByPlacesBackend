@@ -19,3 +19,10 @@ near by food, shopping and hospital zones. It is provided with different
 filters, so that it can provide an ease to the user to search informations 
 about near by places. It uses Angular framework on its frontend and 
 NodeJs, Express Framework on its Backend. Here database is used is mongodb.
+
+
+There are three api's which are made in front end and details are fetched and saved in mongodb database. 
+
+https://backend-near-by-place.herokuapp.com/hospitals
+https://backend-near-by-place.herokuapp.com/shopping
+https://backend-near-by-place.herokuapp.com/cafes
