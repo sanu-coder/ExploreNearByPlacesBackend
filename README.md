@@ -5,7 +5,11 @@
 
 FHSC( food, hospitals and shopping centers) is an web application which tells about the places near your location. It's goal to help and increase the knowledge of the users to make their life more easier and comfortable.
 It contains the Backend part of the web app..
+
+
 To access its front end  part : 
+
+[1] : front-end(https://github.com/sanu-coder/Explore-Near-By-Places)
 
 ## Project Description : 
 
